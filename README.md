@@ -37,8 +37,7 @@ This type of automation can support chemical, solvent, laboratory, quality contr
 ### Automatic file naming
 ![Automatic file naming](screenshots/automatic-file-name.png)
 
-### Final PDF output
-![Final PDF output](screenshots/final-pdf-output.png)
+![Final PDF output](screenshots/final-pdf-output%20.png)
 ## Use Case
 
 This automation is useful for teams working with batch certificates, quality control records, solvent documentation, laboratory reports, or compliance-controlled Excel templates.
