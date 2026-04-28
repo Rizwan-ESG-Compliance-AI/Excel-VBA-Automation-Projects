@@ -39,7 +39,6 @@ This type of automation can support chemical, solvent, laboratory, quality contr
 
 ### Final PDF output
 ![Final PDF output](screenshots/Final%20pdf%20file%20.png)
-
 ## Use Case
 
 This automation is useful for teams working with batch certificates, quality control records, solvent documentation, laboratory reports, or compliance-controlled Excel templates.
