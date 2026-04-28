@@ -23,6 +23,23 @@ This type of automation can support chemical, solvent, laboratory, quality contr
 - One-click printing
 - Button creation directly inside Excel
 
+## Screenshots
+
+### Macro-enabled buttons
+![Macro-enabled buttons](screenshots/Macro%20enabled%20buttons.png)
+
+### Pre-save checklist
+![Pre-save checklist](screenshots/pre%20checked%20specs.png)
+
+### Folder selection
+![Folder selection](screenshots/folder%20selection%20.png)
+
+### Automatic file naming
+![Automatic file naming](screenshots/file%20name.png)
+
+### Final PDF output
+![Final PDF output](screenshots/Final%20pdf%20file%20.png)
+
 ## Use Case
 
 This automation is useful for teams working with batch certificates, quality control records, solvent documentation, laboratory reports, or compliance-controlled Excel templates.
