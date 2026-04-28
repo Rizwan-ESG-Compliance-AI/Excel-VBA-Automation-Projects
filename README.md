@@ -26,19 +26,19 @@ This type of automation can support chemical, solvent, laboratory, quality contr
 ## Screenshots
 
 ### Macro-enabled buttons
-![Macro-enabled buttons](screenshots/Macro%20enabled%20buttons.png)
+![Macro-enabled buttons](screenshots/macro-enabled-buttons.png)
 
 ### Pre-save checklist
-![Pre-save checklist](screenshots/pre%20checked%20specs.png)
+![Pre-save checklist](screenshots/pre-save-checklist.png)
 
 ### Folder selection
 ![Folder selection](screenshots/folder%20selection%20.png)
 
 ### Automatic file naming
-![Automatic file naming](screenshots/file%20name.png)
+![Automatic file naming](screenshots/automatic-file-name.png)
 
 ### Final PDF output
-![Final PDF output](screenshots/Final%20pdf%20file%20.png)
+![Final PDF output](screenshots/final-pdf-output.png)
 ## Use Case
 
 This automation is useful for teams working with batch certificates, quality control records, solvent documentation, laboratory reports, or compliance-controlled Excel templates.
