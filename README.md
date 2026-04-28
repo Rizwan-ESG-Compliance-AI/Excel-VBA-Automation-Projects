@@ -38,6 +38,10 @@ This type of automation can support chemical, solvent, laboratory, quality contr
 ![Automatic file naming](screenshots/automatic-file-name.png)
 
 ![Final PDF output](screenshots/final-pdf-output%20.png)
+## Documentation
+
+- [Solvent Batch Certificate Automation Guide](docs/Solvent_Batch_Certificate_Automation_Guide.md)
+
 ## Use Case
 
 This automation is useful for teams working with batch certificates, quality control records, solvent documentation, laboratory reports, or compliance-controlled Excel templates.
